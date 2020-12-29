@@ -1,0 +1,242 @@
+[
+  {
+    "hira": "わたし",
+    "kanji": "",
+    "meaning": "tôi"
+  },
+  {
+    "hira": "わたしたち",
+    "kanji": "",
+    "meaning": "chúng ta, chúng tôi"
+  },
+  {
+    "hira": "あなた",
+    "kanji": "",
+    "meaning": "bạn"
+  },
+  {
+    "hira": "あのひと",
+    "kanji": "あの人",
+    "meaning": "người kia"
+  },
+  {
+    "hira": "あのかた",
+    "kanji": "あの方",
+    "meaning": "vị kia"
+  },
+  {
+    "hira": "みなさん",
+    "kanji": "皆さん",
+    "meaning": "các bạn, các anh, các chị, mọi người"
+  },
+  {
+    "hira": "ふじだいがく",
+    "kanji": "富士大学",
+    "meaning": "Trường ĐH Fuji"
+  },
+  {
+    "hira": "～さん",
+    "kanji": "",
+    "meaning": "anh ～, chị ～"
+  },
+  {
+    "hira": "～ちゃん",
+    "kanji": "",
+    "meaning": "bé ( dùng cho nữ) hoặc gọi thân mật cho trẻ con ( cả nam lẫn nữ)"
+  },
+  {
+    "hira": "～くん",
+    "kanji": "～君",
+    "meaning": "bé (dùng cho nam) hoặc gọi thân mật"
+  },
+  {
+    "hira": "～じん",
+    "kanji": "～人",
+    "meaning": "người nước ～"
+  },
+  {
+    "hira": "せんせい",
+    "kanji": "先生",
+    "meaning": "giáo viên"
+  },
+  {
+    "hira": "きょうし",
+    "kanji": "教師",
+    "meaning": "giáo viên ( dùng để nói đến nghề nghiệp)"
+  },
+  {
+    "hira": "がくせい",
+    "kanji": "学生",
+    "meaning": "học sinh, sinh viên"
+  },
+  {
+    "hira": "かいしゃいん",
+    "kanji": "会社員",
+    "meaning": "nhân viên công ty"
+  },
+  {
+    "hira": "～しゃいん",
+    "kanji": "社員",
+    "meaning": "nhân viên công ty ～"
+  },
+  {
+    "hira": "ぎんこういん",
+    "kanji": "銀行員",
+    "meaning": "nhân viên ngân hàng"
+  },
+  {
+    "hira": "いしゃ",
+    "kanji": "医者",
+    "meaning": "bác sĩ"
+  },
+  {
+    "hira": "けんきゅうしゃ",
+    "kanji": "研究者",
+    "meaning": "nghiên cứu sinh"
+  },
+  {
+    "hira": "エンジニア",
+    "kanji": "",
+    "meaning": "kỹ sư"
+  },
+  {
+    "hira": "だいがく",
+    "kanji": "大学",
+    "meaning": "trường đại học"
+  },
+  {
+    "hira": "びょういん",
+    "kanji": "病院",
+    "meaning": "bệnh viện"
+  },
+  {
+    "hira": "でんき",
+    "kanji": "電気",
+    "meaning": "điện"
+  },
+  {
+    "hira": "だれ",
+    "kanji": "",
+    "meaning": "ai (hỏi người nào đó)"
+  },
+  {
+    "hira": "どなた",
+    "kanji": "",
+    "meaning": "ngài nào, vị nào (cùng nghĩa trên nhưng lịch sự hơn)"
+  },
+  {
+    "hira": "～さい",
+    "kanji": "－歳",
+    "meaning": "～tuổi"
+  },
+  {
+    "hira": "なんさい",
+    "kanji": "何歳",
+    "meaning": "mấy tuổi"
+  },
+  {
+    "hira": "おいくつ",
+    "kanji": "",
+    "meaning": "mấy tuổi (Dùng lịch sự hơn)"
+  },
+  {
+    "hira": "はい",
+    "kanji": "",
+    "meaning": "vâng"
+  },
+  {
+    "hira": "いいえ",
+    "kanji": "",
+    "meaning": "không"
+  },
+  {
+    "hira": "しつれいですが",
+    "kanji": "失礼ですが",
+    "meaning": "xin lỗi ( khi muốn nhờ ai việc gì đó)"
+  },
+  {
+    "hira": "おなまえは？",
+    "kanji": "お名前は？",
+    "meaning": "bạn tên gì?"
+  },
+  {
+    "hira": "はじめまして",
+    "kanji": "初めまして。",
+    "meaning": "chào lần đầu gặp nhau"
+  },
+  {
+    "hira": "どうぞよろしくおねがいします",
+    "kanji": "どうぞよろしく[お願いします]。",
+    "meaning": "rất hân hạnh được làm quen"
+  },
+  {
+    "hira": "こちらは～さんです",
+    "kanji": "",
+    "meaning": "đây là ngài ～"
+  },
+  {
+    "hira": "～からきました",
+    "kanji": "",
+    "meaning": "đến từ ～"
+  },
+  {
+    "hira": "アメリカ",
+    "kanji": "",
+    "meaning": "Mỹ"
+  },
+  {
+    "hira": "イギリス",
+    "kanji": "",
+    "meaning": "Anh"
+  },
+  {
+    "hira": "インド",
+    "kanji": "",
+    "meaning": "Ấn Độ"
+  },
+  {
+    "hira": "インドネシア",
+    "kanji": "",
+    "meaning": "Indonesia"
+  },
+  {
+    "hira": "かんこく",
+    "kanji": "韓国",
+    "meaning": "Hàn quốc"
+  },
+  {
+    "hira": "タイ",
+    "kanji": "",
+    "meaning": "Thái Lan"
+  },
+  {
+    "hira": "ちゅうごく",
+    "kanji": "中国",
+    "meaning": "Trung Quốc"
+  },
+  {
+    "hira": "ドイツ",
+    "kanji": "",
+    "meaning": "Đức"
+  },
+  {
+    "hira": "にほん",
+    "kanji": "日本",
+    "meaning": "Nhật"
+  },
+  {
+    "hira": "フランス",
+    "kanji": "",
+    "meaning": "Pháp"
+  },
+  {
+    "hira": "ブラジル",
+    "kanji": "",
+    "meaning": "Brazil"
+  },
+  {
+    "hira": "さくらだいがく",
+    "kanji": "さくら大学",
+    "meaning": "Trường đại học Sakura"
+  }
+]

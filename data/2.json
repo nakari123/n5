@@ -1,0 +1,237 @@
+[
+  {
+    "hira": "これ",
+    "kanji": "",
+    "meaning": "đây"
+  },
+  {
+    "hira": "あれ",
+    "kanji": "",
+    "meaning": "kia"
+  },
+  {
+    "hira": "それ",
+    "kanji": "",
+    "meaning": "đó"
+  },
+  {
+    "hira": "この",
+    "kanji": "",
+    "meaning": "~này"
+  },
+  {
+    "hira": "その",
+    "kanji": "",
+    "meaning": "~đó"
+  },
+  {
+    "hira": "あの",
+    "kanji": "",
+    "meaning": "~kia"
+  },
+  {
+    "hira": "ほん",
+    "kanji": "本",
+    "meaning": "Sách"
+  },
+  {
+    "hira": "じしょ",
+    "kanji": "辞書",
+    "meaning": "Từ điển"
+  },
+  {
+    "hira": "ざっし",
+    "kanji": "雑誌",
+    "meaning": "tạp chí"
+  },
+  {
+    "hira": "しんぶん",
+    "kanji": "新聞",
+    "meaning": "báo"
+  },
+  {
+    "hira": "ノート",
+    "kanji": "",
+    "meaning": "tập"
+  },
+  {
+    "hira": "てちょう",
+    "kanji": "手帳",
+    "meaning": "sổ tay"
+  },
+  {
+    "hira": "めいし",
+    "kanji": "名刺",
+    "meaning": "danh thiếp"
+  },
+  {
+    "hira": "カード",
+    "kanji": "",
+    "meaning": "card"
+  },
+  {
+    "hira": "テレホンカード",
+    "kanji": "",
+    "meaning": "card điện thoại"
+  },
+  {
+    "hira": "えんびつ",
+    "kanji": "鉛筆",
+    "meaning": "viết chì"
+  },
+  {
+    "hira": "ポールペン",
+    "kanji": "",
+    "meaning": "Viết bi"
+  },
+  {
+    "hira": "シャープペンシル",
+    "kanji": "",
+    "meaning": "viết chì bấm"
+  },
+  {
+    "hira": "かぎ",
+    "kanji": "",
+    "meaning": "chì khoá"
+  },
+  {
+    "hira": "とけい",
+    "kanji": "時計",
+    "meaning": "đồng hồ"
+  },
+  {
+    "hira": "かさ",
+    "kanji": "傘",
+    "meaning": "Cái dù"
+  },
+  {
+    "hira": "かばん",
+    "kanji": "",
+    "meaning": "cái cặp"
+  },
+  {
+    "hira": "カセット＞テープ",
+    "kanji": "",
+    "meaning": "băng ( casset)"
+  },
+  {
+    "hira": "テープレコーダー",
+    "kanji": "",
+    "meaning": "máy casset"
+  },
+  {
+    "hira": "テレビ",
+    "kanji": "",
+    "meaning": "cái TV"
+  },
+  {
+    "hira": "ラジオ",
+    "kanji": "",
+    "meaning": "cái radio"
+  },
+  {
+    "hira": "カメラ",
+    "kanji": "",
+    "meaning": "cái máy chụp hình"
+  },
+  {
+    "hira": "コンピューター",
+    "kanji": "",
+    "meaning": "máy vi tính"
+  },
+  {
+    "hira": "じどうしゃ",
+    "kanji": "自動車",
+    "meaning": "xe hơi"
+  },
+  {
+    "hira": "つくえ",
+    "kanji": "",
+    "meaning": "cái bàn"
+  },
+  {
+    "hira": "いす",
+    "kanji": "",
+    "meaning": "cái ghế"
+  },
+  {
+    "hira": "チョコレート",
+    "kanji": "",
+    "meaning": "kẹo sôcôla"
+  },
+  {
+    "hira": "コーヒー",
+    "kanji": "",
+    "meaning": "cà phê"
+  },
+  {
+    "hira": "えいご",
+    "kanji": "英語",
+    "meaning": "tiếng Anh"
+  },
+  {
+    "hira": "にほんご",
+    "kanji": "日本語",
+    "meaning": "tiếng Nhật"
+  },
+  {
+    "hira": "～ご",
+    "kanji": "～語",
+    "meaning": "tiếng ~"
+  },
+  {
+    "hira": "なん",
+    "kanji": "何",
+    "meaning": "cái gì"
+  },
+  {
+    "hira": "そう",
+    "kanji": "",
+    "meaning": "thế nào"
+  },
+  {
+    "hira": "ちがいます",
+    "kanji": "違います",
+    "meaning": "không phải, sai rồi"
+  },
+  {
+    "hira": "そですか",
+    "kanji": "",
+    "meaning": "thế à?"
+  },
+  {
+    "hira": "あのう",
+    "kanji": "",
+    "meaning": "à…..ờ ( ngập ngừng khi đề nghị hoặc suy nghĩ 1 vấn đề)"
+  },
+  {
+    "hira": "ほんのきもちです",
+    "kanji": "ほんの気持ちです",
+    "meaning": "đây là chút lòng thành"
+  },
+  {
+    "hira": "どうぞ",
+    "kanji": "",
+    "meaning": "xin mời"
+  },
+  {
+    "hira": "どうも",
+    "kanji": "",
+    "meaning": "cám ơn"
+  },
+  {
+    "hira": "どうも＞ありがとう＜ございます",
+    "kanji": "",
+    "meaning": "Xin chân thành cảm ơn"
+  },
+  {
+    "hira": "これからおせわになります",
+    "kanji": "これからお世話になります",
+    "meaning": "Từ nay mong được giúp đỡ"
+  },
+  {
+    "hira": "こちらこそよろしく",
+    "kanji": "",
+    "meaning": "chính tôi mới là người mong được giúp đỡ"
+  }
+]
